@@ -10,11 +10,6 @@ Apart from this unique feature, we've also developed a hybrid, multi-chain syste
 needed to make external oracle calls and reducing the overall gas fees as well, paid when collecting rewards. Thus, making
 this ecosystem profitable for our users. 
 
-To sum up, any project with limited AND FULLY MINTED supply (preferably between 10k-20k tokens) will be able to request
-place in our platform, incentivising their community and possibly developing their own, better contracts based on our code,
-which is under **MIT license, thus any commercial or private use MUST comply with certain requirements, such as:
-copyright notice**
-
 ## Yield Farming
 
 Details about our equation and reward processing can be found in our whitepaper, here we will just go over the basics. 
